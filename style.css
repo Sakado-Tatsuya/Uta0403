@@ -206,7 +206,7 @@ ul li{
   text-justify: inter-ideograph;
 }
 
-/* main5 */
+/* main6 */
 
 .p5 {
   width: 900px;
@@ -249,10 +249,10 @@ ul li{
   height: 50px;
 }
 
-/* a */
 a {
   color: red;
 }
+/* a */
 @media screen and (max-width:480px)
 {
   body {
